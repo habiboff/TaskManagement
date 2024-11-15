@@ -60,3 +60,7 @@ Example Design:
 2. User Detail Screen:
     * Fetches and displays full details for the selected contact.
     * For any missing fields in the data, displays "N/A" as a placeholder.
+    * 
+
+
+![Example image](https://github.com/habiboff/TaskManagement/blob/master/iPhone%2016%20Pro%20-%201.png)![](https://github.com/habiboff/TaskManagement/blob/master/iPhone%2016%20Pro%20-%202.png)
