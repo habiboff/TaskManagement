@@ -82,11 +82,11 @@
 		253BFA222CE741F100414504 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				25C38E792CE7591900686268 /* Manager */,
 				253BFA3A2CE7459D00414504 /* HTTP */,
 				253BFA372CE743C500414504 /* Mock */,
 				253BFA362CE743A500414504 /* Error */,
 				253BFA352CE7439300414504 /* Repository */,
-				253BFA342CE7438200414504 /* Manager */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -206,14 +206,6 @@
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		253BFA342CE7438200414504 /* Manager */ = {
-			isa = PBXGroup;
-			children = (
-				253BFA3D2CE752EC00414504 /* DataManager.swift */,
-			);
-			path = Manager;
-			sourceTree = "<group>";
-		};
 		253BFA352CE7439300414504 /* Repository */ = {
 			isa = PBXGroup;
 			children = (
@@ -242,6 +234,14 @@
 				253BFA3B2CE745AA00414504 /* HTTPClient.swift */,
 			);
 			path = HTTP;
+			sourceTree = "<group>";
+		};
+		25C38E792CE7591900686268 /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+				253BFA3D2CE752EC00414504 /* DataManager.swift */,
+			);
+			path = Manager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
