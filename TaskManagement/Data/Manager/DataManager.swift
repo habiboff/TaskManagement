@@ -14,4 +14,6 @@ class DataManager {
     func loadJson<T: Decodable>(filenName: String, completion: @escaping (Result<T, Error>) -> Void) {
         
     }
+    
+    
 }
